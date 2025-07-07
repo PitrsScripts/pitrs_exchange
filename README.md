@@ -4,7 +4,7 @@
 
 * Random NPC spawning from configurable positions on server restart
 
-* Interactive money exchange with ox_target integration
+* Interactive items exchange with ox_target integration
 
 * Animated negotiations and transactions
 
