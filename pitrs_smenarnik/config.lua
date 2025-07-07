@@ -1,8 +1,5 @@
 Config = {}
 
--- Language settings
-Config.Locale = 'cs' -- en - English, cs - Czech
-
 -- NPC settings
 Config.NPCModel = 'a_m_m_business_01'
 
